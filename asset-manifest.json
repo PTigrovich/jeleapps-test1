@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/jeleapps-test1/static/js/main.1ca11bd2.js",
+    "main.css": "/jeleapps-test1/static/css/main.76ad0e0d.css",
+    "main.js": "/jeleapps-test1/static/js/main.9a219277.js",
     "index.html": "/jeleapps-test1/index.html",
-    "main.1ca11bd2.js.map": "/jeleapps-test1/static/js/main.1ca11bd2.js.map"
+    "main.76ad0e0d.css.map": "/jeleapps-test1/static/css/main.76ad0e0d.css.map",
+    "main.9a219277.js.map": "/jeleapps-test1/static/js/main.9a219277.js.map"
   },
   "entrypoints": [
-    "static/js/main.1ca11bd2.js"
+    "static/css/main.76ad0e0d.css",
+    "static/js/main.9a219277.js"
   ]
 }
